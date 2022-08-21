@@ -87,7 +87,6 @@ const Login = (props) => {
       setPasswordError("Password Required");
     }
   };
-
   return (
     <div
       className="container"
